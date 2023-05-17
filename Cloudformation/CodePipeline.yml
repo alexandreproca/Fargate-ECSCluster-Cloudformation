@@ -7,7 +7,7 @@ Parameters:
     Default: dev
   GithubUserName:
     Type: String
-    Default: <USERNAME>
+    Default: alexandreproca
   GithubRepo:
     Type: String
     Default: Fargate-ECSCluster-Cloudformation
@@ -16,7 +16,7 @@ Parameters:
     Default: <BRANCH>
   GithubOAuthToken:
     Type: String
-    Default: <GITHUB ACCESS TOKEN>
+    Default: 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
   ContainerPort:
     Type: Number
     Default: 8080
